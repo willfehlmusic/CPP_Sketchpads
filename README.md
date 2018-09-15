@@ -11,7 +11,7 @@ These are meant to be learning/tutorial tools.<br/>
 
 I have written articles that correspond with some of these files.<br/>
 Here are some links:<br/>
-<br/>
+https://www.linkedin.com/post/edit/digital-filter-design-fir-vs-iir-filters-william-fehlhaber <br/>
 <br/>
 <br/>
 <br/>

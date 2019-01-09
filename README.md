@@ -12,7 +12,8 @@ These are meant to be learning/tutorial tools.<br/>
 I have written articles that correspond with some of these files.<br/>
 Here are some links:<br/>
 https://www.linkedin.com/post/edit/digital-filter-design-fir-vs-iir-filters-william-fehlhaber <br/>
-<br/>
+https://theaudioprogrammer.com/digital-filter-design-fir-vs-iir-filters/  <br/>
+https://www.linkedin.com/pulse/lambda-expressions-basics-william-fehlhaber/ <br/>
 <br/>
 <br/>
 <br/>

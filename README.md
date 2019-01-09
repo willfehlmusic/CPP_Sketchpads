@@ -15,8 +15,6 @@ Here are some links:<br/>
 https://www.linkedin.com/post/edit/digital-filter-design-fir-vs-iir-filters-william-fehlhaber <br/>
 https://www.linkedin.com/pulse/lambda-expressions-basics-william-fehlhaber/ <br/>
 <br/>
-<br/>
-<br/>
 ### Via The Audio Programmer
 https://theaudioprogrammer.com/digital-filter-design-fir-vs-iir-filters/  <br/>
 <br/>
